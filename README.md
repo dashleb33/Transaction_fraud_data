@@ -1,12 +1,15 @@
-# Свободное исследование данных
+# Свободное исследование данных. Задание: провести разведочный анализ данных, придумать продуктовые и технические гипотезы — какую ценность можете извлечь из данных для организации, которая предоставила данные.
 
-Задание: провести разведочный анализ данных, придумать продуктовые и технические гипотезы — какую ценность можете извлечь из данных для организации, которая предоставила данные.
+---
 
-Файлы скачиваются по клику на них:
+## Данные
 
-![historical_currency_exchange](https://assets.contest.yandex.net/testsys/statement-file?hash=eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..cT_33Wdcfi4sRaiB.doFVKDsSgppwoPVmlJXM6KRP1tDuTQ3SXe0Ue2HvrswtoHAriPL_CeBH1Gnz6reyxlOSVUyRjtRry2MJg65jp48X7fZh1sicC_Mvs2LC3NHx8O1dlMePhpqUAysxxgYxDPZl.G2QKL5I-cDTjzYWaTvMm5Q)
+Файлы доступны для скачивания по клику на соответствующие названия:
 
-![transaction_fraud_data](https://assets.contest.yandex.net/testsys/statement-file?hash=eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..cT_33Wdcfi4sRaiB.doFVKDsSgppwoPVmlJXM6KRP1tDuTQ3SXe0Ue2HvrswtoHAriPL_CeBH1Gnz6reyxlOSVUyRjtRry2MJg65jp48X7fZh1sicC_Mvs2LC3NHx8O1dlMePhpqUAysxxgYxDPZl.G2QKL5I-cDTjzYWaTvMm5Q)
+- [historical_currency_exchange](https://assets.contest.yandex.net/testsys/statement-file?hash=eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..cT_33Wdcfi4sRaiB.doFVKDsSgppwoPVmlJXM6KRP1tDuTQ3SXe0Ue2HvrswtoHAriPL_CeBH1Gnz6reyxlOSVUyRjtRry2MJg65jp48X7fZh1sicC_Mvs2LC3NHx8O1dlMePhpqUAysxxgYxDPZl.G2QKL5I-cDTjzYWaTvMm5Q) - исторические данные обменных курсов валют
+- [transaction_fraud_data](https://assets.contest.yandex.net/testsys/statement-file?hash=eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..cT_33Wdcfi4sRaiB.doFVKDsSgppwoPVmlJXM6KRP1tDuTQ3SXe0Ue2HvrswtoHAriPL_CeBH1Gnz6reyxlOSVUyRjtRry2MJg65jp48X7fZh1sicC_Mvs2LC3NHx8O1dlMePhpqUAysxxgYxDPZl.G2QKL5I-cDTjzYWaTvMm5Q) - данные о мошеннических транзакциях
+
+--- 
 
 # Общее описание `transaction_fraud_data.parquet`
 
